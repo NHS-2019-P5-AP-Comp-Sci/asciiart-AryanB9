@@ -10,7 +10,7 @@
  * For those of you who have dabbled in coding before, try to contain your code to 
  * just what we have discussed in this unit.  
  * 
- * @author Mr. Rasmussen 
+ * @author Aryan Bataan 
  *
  */
 
@@ -18,10 +18,12 @@
 
 public class ASCIIArt {
 	public static void main (String [] args) {
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
-		System.out.println("THIS IS MY ASCII ART!!!!");
+		System.out.println("\n         ____            _______                       _____");
+		System.out.println("        /    \\          |       |         \\    /      /     \\        | \\    |");
+	    System.out.println("       /------\\         |_______|          \\  /      / ----- \\       |  \\   |");    
+	    System.out.println("      /        \\        |       \\           \\/      /         \\      |   \\  |");
+	    System.out.println("     /          \\       |        \\          /      /           \\     |    \\ |");
+	    System.out.println("    /            \\      |         \\        /      /             \\    |     \\|");
+	    
 	}
 }
